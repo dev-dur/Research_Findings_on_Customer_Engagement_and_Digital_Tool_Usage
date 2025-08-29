@@ -1,4 +1,4 @@
-# Research_Findings_on_Customer_Engagement_and_Digital_Tool_Usage
+# Data Analysis on Customer Engagement and Digital Usage
 Data analysis project exploring customer engagement and digital tool usage. Includes Python scripts and Excel data for uncovering behavioral trends. Provides actionable insights to support UX research and product strategy.
 
 ## 📊 Project Structure
@@ -6,15 +6,11 @@ Data analysis project exploring customer engagement and digital tool usage. Incl
 - **customer_spending_data.xlsx** → Dataset containing customer spending and engagement metrics  
 - **README.md** → Project documentation  
 
----
-
 ## 🔍 Features
 - Data preprocessing and cleaning of raw engagement data  
 - Exploratory data analysis (EDA) with descriptive statistics  
 - Visualization of customer spending patterns and digital tool adoption  
 - Insights to support **UX design improvements** and **product strategy**  
-
----
 
 ## ⚙️ Tech Stack
 - **Python 3.9+**  
@@ -22,8 +18,6 @@ Data analysis project exploring customer engagement and digital tool usage. Incl
   - matplotlib / seaborn  
   - numpy  
 - **Excel (.xlsx)** for raw dataset  
-
----
 
 ## 🚀 Usage
 1. Clone this repository  
