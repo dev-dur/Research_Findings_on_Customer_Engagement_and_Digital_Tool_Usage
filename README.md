@@ -29,16 +29,16 @@ Data analysis project exploring customer engagement and digital tool usage. Incl
 3. Run the analysis
       python analysis_script.py
 
-📌 Research Context
+## 📌 Research Context
 - The analysis was conducted as part of a UX project aimed at understanding how customers interact with digital tools. The findings can guide:
 - Feature prioritization
 - Engagement strategies
 - UX/UI enhancements
 
-📈 Future Improvements
+## 📈 Future Improvements
 - Add interactive dashboards (e.g., with Plotly or Streamlit)
 - Expand dataset with demographic and behavioral attributes
 - Apply predictive modeling for customer engagement forecasting
 
-📝 License
+## 📝 License
 This project is licensed under the MIT License
