@@ -39,6 +39,3 @@ Data analysis project exploring customer engagement and digital tool usage. Incl
 - Add interactive dashboards (e.g., with Plotly or Streamlit)
 - Expand dataset with demographic and behavioral attributes
 - Apply predictive modeling for customer engagement forecasting
-
-## 📝 License
-This project is licensed under the MIT License
